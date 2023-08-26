@@ -1,0 +1,30 @@
+.logo{
+    margin-left: 10%;
+    width: 60%;
+    height: 60%;
+    display: inline-block;
+}
+
+ul{
+    margin-right: 300px;
+    width: 100%;
+}
+
+li{
+    display: inline;
+    margin-right: 5%;
+    padding-top: 5%;
+}
+
+a{
+   text-decoration: none;
+   color: white; 
+}
+
+nav{
+    background-color: rgb(200, 0, 100);
+}
+
+.container-nav{
+    width: 100%;
+}
