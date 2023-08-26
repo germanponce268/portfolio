@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
 
+  public image!: string;
+
   constructor() { }
 
   ngOnInit(): void {
+    this.image = '../assets/images/icono2-small.jpg'
   }
 
 }
