@@ -1,15 +1,26 @@
 .body-container{
     width: 100%;
-    height:750px;
+    height:550px;
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center center;
     background-color: #c80064;
     background-image: linear-gradient(180deg, #c80064 0%, #C850C0 46%, rgb(157, 112, 255) 100%);
-    display: flex;   
+
+    display: inline-block;   
+
     color: aliceblue; 
 }
 
-h1{
+.title{
     margin-left: 25%;
+
+}
+
+.text{
+    margin-top: 2%;
+    margin-left: 15%;
+    width: 60%;
+    display: flex;
+    align-items: center;
 }

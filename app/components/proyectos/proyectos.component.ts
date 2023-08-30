@@ -7,9 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProyectosComponent implements OnInit {
 
+  public image! : string;
+  public imate1! : string;
+
   constructor() { }
 
   ngOnInit(): void {
+    this.image = `assets/images/login-img-sm.jpg`
   }
 
 }
