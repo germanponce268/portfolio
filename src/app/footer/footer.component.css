@@ -7,10 +7,27 @@
     
 }
 .logo img{
-    width: 160px;
-    height: 120px;
-    margin-left: 25%;
+    width: 100px;
+    height: 80px;
+    margin-left: 40%;
+    border-radius: 50%;
+    
 }
 p{
     margin-left: 30%;
+    margin-top: 2%;
+}
+ul{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+li{
+    margin-top: 5%; 
+    padding-left: 25px;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
 }
